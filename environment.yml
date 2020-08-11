@@ -1,0 +1,8 @@
+name: crashes
+dependencies:
+  - python=3.7
+  - pandas
+  - conda-forge::shapely
+  - pip
+  - pip:
+    - pandarallel
