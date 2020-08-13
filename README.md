@@ -2,7 +2,7 @@
 
 This is an interactive visualization of motor vehicle collisions at varying scales across New York City from 2012-2020. 
 
-The live demonstration can be found at [https://paul-tqh-nguyen.github.io/nyc_collision_map/](https://paul-tqh-nguyen.github.io/nyc_collision_map/).
+The live demonstration can be found at [https://paul-tqh-nguyen.github.io/nyc_collision_map_deployment/](https://paul-tqh-nguyen.github.io/nyc_collision_map_deployment/).
 
 Feel free to  [reach out](https://paul-tqh-nguyen.github.io/about/#contact)  for help or to report problems or make suggestions for improvement!
 
